@@ -1,0 +1,19 @@
+{
+  "name": "pgsql",
+  "version": "1.0.0",
+  "description": "Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Project z node"
+  },
+  "author": "Bohdan Bura",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9",
+    "pg": "^8.14.1"
+  }
+}
